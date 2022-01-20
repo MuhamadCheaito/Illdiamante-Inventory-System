@@ -1,0 +1,51 @@
+﻿<UserControl x:Class="Ildiamnte_Inventory_System.Views.PartnerTransactionsListView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Ildiamnte_Inventory_System.Views"
+             xmlns:models="clr-namespace:Ildiamnte_Inventory_System.Model"
+             mc:Ignorable="d" 
+             Width="Auto"
+             Height="Auto"
+             d:DesignHeight="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <WrapPanel>
+            <Button Content="Transazioni con i partner" Command="{Binding DetailsCommand}" Background="#FF069941" Foreground="White" />
+        </WrapPanel>
+        <ListView Grid.Row="1" ItemsSource="{Binding List}" SelectedItem="{Binding SelectedItem}" HorizontalAlignment="Stretch" HorizontalContentAlignment ="Stretch">
+            <ListView.ItemContainerStyle>
+                <Style TargetType="{x:Type ListViewItem}">
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch" />
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Path=ListVariable, Converter={StaticResource DecimalToPositiveConverter}}" Value="False">
+                            <Setter Property="Background" Value="MistyRose"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </ListView.ItemContainerStyle>
+            <ListView.View>
+                <models:AutoSizedGridView>
+                    <GridViewColumn Header="Id" DisplayMemberBinding="{Binding Path=Partner.Id}" />
+                    <GridViewColumn Header="Nome del partner" DisplayMemberBinding="{Binding Path=Partner.Name}" />
+                    <GridViewColumn Header="Codice partner" DisplayMemberBinding="{Binding Path=Partner.Code}" />
+                    <GridViewColumn Header="Transazioni con i partner" Width="Auto">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Path=ListVariable,StringFormat={}{0:C} }" TextAlignment="Right" Width="Auto" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Conto bancario partner" DisplayMemberBinding="{Binding Path=Partner.AccountNumber}" />
+                </models:AutoSizedGridView>
+            </ListView.View>
+        </ListView>
+        <TextBlock Grid.Row="2" Text="{Binding TotalTransactions, StringFormat=Total transactions: {0:C}}" TextAlignment="Left" FontSize="18" FontWeight="Bold" Margin="5" />
+    </Grid>
+
+</UserControl>

@@ -1,0 +1,30 @@
+C:\Users\hp\Source\Repos\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\hp\Source\Repos\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\hp\Source\Repos\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\hp\Source\Repos\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\hp\Source\Repos\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\log4net.dll
+C:\Users\hp\Source\Repos\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\hp\Source\Repos\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\hp\Source\Repos\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\hp\Source\Repos\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\log4net.xml
+C:\Users\hp\Source\Repos\Red-Inventory-Management\Red software\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\hp\Source\Repos\Red-Inventory-Management\Red software\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\hp\Source\Repos\Red-Inventory-Management\Red software\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\Red-Inventory-Management\Red software\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\hp\Source\Repos\Red-Inventory-Management\Red software\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\hp\Source\Repos\Red-Inventory-Management\Red software\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\BusinessLayer\bin\Debug\log4net.dll
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\BusinessLayer\bin\Debug\log4net.xml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,0 +1,81 @@
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Ildiamnte_Inventory_System.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Notifications\Resources\ButtonStyle.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Notifications\GrowlNotifiactions.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Lists\ListDetails\InventoryListDetailsView.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Lists\InventoryListView.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Lists\PartnerTransactionsListView.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Lists\ListDetails\PartnerTransactionsListDetailsView.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Database\SetupConnectionView.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Database\SetupConnectionMenuView.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\PartnersTableView.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\ProductCategoriesTableView.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\ProductsTableView.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\Edit\EditProductView.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\Edit\EditProductCategoryView.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\Edit\EditPartnerView.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\Edit\EditTransactionView.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Lists\ListDetails\ListDetailsWindow.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Lists\ListView.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Login\EditUserWindow.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\Edit\EditItemWindow.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Login\LoginWindow.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\MainWindow.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Login\NewUserWindow.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Database\SetupConnectionWindow.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\TableView.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\UsersTableView.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\TransactionsTableView.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\App.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\bin\Debug\BusinessLayer.dll
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\bin\Debug\EntityLayer.dll
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\bin\Debug\log4net.dll
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\bin\Debug\DataLayer.dll
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\bin\Debug\BusinessLayer.pdb
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\bin\Debug\EntityLayer.pdb
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\bin\Debug\log4net.xml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\bin\Debug\DataLayer.pdb
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\App.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Notifications\GrowlNotifiactions.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\ViewModel\ViewModels.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Resources\MainResources.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Lists\ListDetails\InventoryListDetailsView.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Lists\InventoryListView.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Lists\PartnerTransactionsListView.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Lists\ListDetails\PartnerTransactionsListDetailsView.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Database\SetupConnectionView.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Database\SetupConnectionMenuView.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\PartnersTableView.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\ProductCategoriesTableView.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\ProductsTableView.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\Edit\EditProductView.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\Edit\EditProductCategoryView.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\Edit\EditPartnerView.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\Edit\EditTransactionView.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Lists\ListDetails\ListDetailsWindow.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Lists\ListView.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Login\EditUserWindow.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\Edit\EditItemWindow.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Login\LoginWindow.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\MainWindow.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Login\NewUserWindow.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Database\SetupConnectionWindow.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\TableView.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\UsersTableView.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Views\Tables\TransactionsTableView.baml
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Ildiamnte_Inventory_System.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Ildiamnte_Inventory_System.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Ildiamnte_Inventory_System.csproj.CopyComplete
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\bin\Debug\Ildiamnte Inventory System.exe.config
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\bin\Debug\Ildiamnte Inventory System.exe
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\bin\Debug\Ildiamnte Inventory System.pdb
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Ildiamnte Inventory System_MarkupCompile.cache
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Ildiamnte Inventory System_MarkupCompile.lref
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Ildiamnte Inventory System.g.resources
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Ildiamnte_Inventory_System.Properties.Resources.resources
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Ildiamnte Inventory System.exe
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\obj\Debug\Ildiamnte Inventory System.pdb

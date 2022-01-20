@@ -1,0 +1,2 @@
+C:\Users\hp\source\repos\Ildiamnte-Inventory-System\Inventory Software System\Ildiamnte Inventory System\bin\Debug\
+InventorySystemDB

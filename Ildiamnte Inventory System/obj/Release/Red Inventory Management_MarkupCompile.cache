@@ -1,0 +1,20 @@
+﻿Red Inventory Management
+
+
+winexe
+C#
+.cs
+C:\Users\hp\source\repos\Red-Inventory-Management\Red software\Red Inventory Management\obj\Release\
+Red_Inventory_Management
+none
+false
+TRACE
+C:\Users\hp\source\repos\Red-Inventory-Management\Red software\Red Inventory Management\App.xaml
+28622980091
+
+58896060004
+24-1258736679
+Notifications\GrowlNotifiactions.xaml;Notifications\Resources\ButtonStyle.xaml;ViewModel\ViewModels.xaml;Resources\MainResources.xaml;Views\Lists\ListDetails\InventoryListDetailsView.xaml;Views\Lists\InventoryListView.xaml;Views\Lists\PartnerTransactionsListView.xaml;Views\Lists\ListDetails\PartnerTransactionsListDetailsView.xaml;Views\Database\SetupConnectionView.xaml;Views\Database\SetupConnectionMenuView.xaml;Views\Tables\PartnersTableView.xaml;Views\Tables\ProductCategoriesTableView.xaml;Views\Tables\ProductsTableView.xaml;Views\Tables\Edit\EditProductView.xaml;Views\Tables\Edit\EditProductCategoryView.xaml;Views\Tables\Edit\EditPartnerView.xaml;Views\Tables\Edit\EditTransactionView.xaml;Views\Lists\ListDetails\ListDetailsWindow.xaml;Views\Lists\ListView.xaml;Views\Login\EditUserWindow.xaml;Views\Tables\Edit\EditItemWindow.xaml;Views\Login\LoginWindow.xaml;Views\MainWindow.xaml;Views\Login\NewUserWindow.xaml;Views\Database\SetupConnectionWindow.xaml;Views\Tables\TableView.xaml;Views\Tables\UsersTableView.xaml;Views\Tables\TransactionsTableView.xaml;
+
+True
+

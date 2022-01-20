@@ -1,0 +1,66 @@
+﻿<Window x:Class="Ildiamnte_Inventory_System.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ildiamnte_Inventory_System"
+        xmlns:system="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="ILDIAMNTE INVENTORY SYSTEM" 
+        Height="600" 
+        Width="800" 
+        Style="{StaticResource mainWindowStyle}" 
+        Closing="Window_Closing" >
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="White" Offset="0"/>
+            <GradientStop Color="#FFFF8F00" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition />
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" Margin="10" CornerRadius="10" Background="#FFCEF3D5">
+            <ItemsControl Name="MainMenuItemsControl"  ItemsSource="{Binding MainMenu}" >
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Button Style="{StaticResource MainMenuButton}" Content="{Binding}" Command="{Binding ElementName=MainMenuItemsControl, Path=DataContext.SwitchMenuCommand}" CommandParameter="{Binding}"/>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </Border>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Border  Grid.Column="0" Margin="10" CornerRadius="10" Background="#FFFFFFB9">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                    <ItemsControl Name="MenuItemsControl"  ItemsSource="{Binding CurrentMenu}">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <Button Style="{StaticResource MenuButton}" Content="{Binding}" Command="{Binding ElementName=MenuItemsControl, Path=DataContext.SwitchViewCommand}" CommandParameter="{Binding}"/>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </Grid>
+            </Border>
+            <ContentControl Grid.Column="1" Content="{Binding CurrentViewModel}"/>
+        </Grid>
+        <Label Grid.Row="2" FontSize="10" FontFamily="Comic Sans MS" Foreground="White" Content="Copyright © 2021 Muhamad Cheaito. All rights reserved."/>
+    </Grid>
+</Window>
